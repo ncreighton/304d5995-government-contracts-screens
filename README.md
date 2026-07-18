@@ -24,6 +24,8 @@ Stop wasting time stitching together partial screenshots and switching between a
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
+**[Buy on Gumroad](https://homebasedigital.gumroad.com/l/canzby)** — Instant download, lifetime updates
+
 **[Buy Now (Stripe)](https://buy.stripe.com/9B6eVd3aL4scaNO9rKcZn23)** — Secure checkout
 
 ## Installation
@@ -35,6 +37,7 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://homebasedigital.gumroad.com/l/canzby)
 
 ## License
 
